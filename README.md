@@ -19,7 +19,7 @@ Consists of five tasks: creating an infographic using canva, setting up digital 
 ##  Task Summary
 
 ### Task 1: Digital Literacy Infographic
-Creating a single-page infographic using Canva about digital literacy, safe internet practices, and useful digital tools.
+Creating a single-page infographic using Canva about digital literacy, safe internet practices, and professional online presence.
 
 ---
 
